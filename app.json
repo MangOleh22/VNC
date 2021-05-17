@@ -1,0 +1,10 @@
+{
+  "name": "RDP/VPS VNC SIIAAN",
+  "description": "Deploy VNC to Heroku.",
+  "keywords": ["VNC", "Docker"],
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
